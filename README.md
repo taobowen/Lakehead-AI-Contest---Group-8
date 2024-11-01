@@ -24,3 +24,10 @@ Nov 29, 2024
 	• Prototyper(s): Whom will experiment in Python with various algorithms
 	• Designer: Who will draw block diagrams and figures
 	• Editor: Who will edit and revise the executive summary document and the PPT presentation slides.
+
+ ## Division:
+ Prototyper: Bowen Tao(Frank)
+ Librarian:
+ Mindmap Driver:
+ Designer:
+ Editor:
