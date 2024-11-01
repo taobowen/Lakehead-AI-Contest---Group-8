@@ -30,4 +30,4 @@ Nov 29, 2024
 	 Librarian:Jiaxin Ye, Huixiang Zhang
 	 Mindmap Driver:
 	 Designer:
-	 Editor:
+	 Editor: Arsh Zala
