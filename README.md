@@ -18,16 +18,16 @@ Nov 29, 2024
 	• PPT slides for contest investigation (present in 20 minutes) (30%)
 	
 
-## Role:
+## Role Introduction:
 	• Mindmap Driver: Who plots a mindmap for the possible paths of the research
 	• Librarian: Who will bring the best papers to the group (Minimum 20)
 	• Prototyper(s): Whom will experiment in Python with various algorithms
 	• Designer: Who will draw block diagrams and figures
 	• Editor: Who will edit and revise the executive summary document and the PPT presentation slides.
 
- ## Division:
- Prototyper: Bowen Tao(Frank)
- Librarian:
- Mindmap Driver:
- Designer:
- Editor:
+ ## Role Assignment:
+	 Prototyper: Bowen Tao(Frank)
+	 Librarian:
+	 Mindmap Driver:
+	 Designer:
+	 Editor:
