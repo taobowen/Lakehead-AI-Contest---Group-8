@@ -27,7 +27,7 @@ Nov 29, 2024
 
  ## Role Assignment:
 	 Prototyper: Bowen Tao(Frank)
-	 Librarian:
+	 Librarian:Jiaxin Ye, Huixiang Zhang
 	 Mindmap Driver:
 	 Designer:
 	 Editor:
