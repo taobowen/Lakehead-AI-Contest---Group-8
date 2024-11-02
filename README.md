@@ -32,9 +32,16 @@ Nov 29, 2024
 	 Designer:Kathan, Ryan
 	 Editor: Arsh Zala, Dhaval
 
-## Project Workflow
 
-### Important Dates
-- **November 6, 2024:** Librarians provide the research papers.
-- **November 13, 2024:** Completion of coding and initial analysis.
-- **November 21, 2024:** Submission of the final PPT presentation.
+
+## Milestones and Roles
+
+| **Milestone**                   | **Due Date**     | **Assigned Roles & Responsibilities**                                                                 |
+|---------------------------------|------------------|------------------------------------------------------------------------------------------------------|
+| **Mindmap Completion**          | Nov 6, 2024     | **Mindmap Driver (Parth, Tulsi)**: Create a mindmap to outline possible research paths and topics.   |
+| **Research Papers Submission**  | Nov 13, 2024     | **Librarians (Jiaxin, Huixiang)**: Gather and submit relevant research papers to the `docs` folder. |
+| **Coding & Analysis Completion**| Nov 20, 2024    | **Prototyper (Bowen)**: Complete coding comparisons, submit `.ipynb` files in the `src` folder.      |
+| **Final Presentation Preparation** | Nov 23, 2024 | **Designer (Kathan, Ryan)**: Prepare visual aids, diagrams; **Editor (Arsh, Dhaval)**: Finalize PPT.|
+| **Review and Practice**         | Nov 27, 2024    | **All Members**: Review final PPT, conduct practice session for the class presentation.             |
+
+## Project Structure
