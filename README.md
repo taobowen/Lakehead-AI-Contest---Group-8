@@ -28,6 +28,6 @@ Nov 29, 2024
  ## Role Assignment:
 	 Prototyper: Bowen Tao(Frank)
 	 Librarian:Jiaxin Ye, Huixiang Zhang
-	 Mindmap Driver:
-	 Designer:
-	 Editor: Arsh Zala
+	 Mindmap Driver:Parth tarapara, Tulsi
+	 Designer:Kathan, Ryan
+	 Editor: Arsh Zala, Dhaval
