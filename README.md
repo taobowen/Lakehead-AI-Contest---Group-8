@@ -31,3 +31,10 @@ Nov 29, 2024
 	 Mindmap Driver:Parth tarapara, Tulsi
 	 Designer:Kathan, Ryan
 	 Editor: Arsh Zala, Dhaval
+
+## Project Workflow
+
+### Important Dates
+- **November 6, 2024:** Librarians provide the research papers.
+- **November 13, 2024:** Completion of coding and initial analysis.
+- **November 21, 2024:** Submission of the final PPT presentation.
