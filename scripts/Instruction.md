@@ -1,7 +1,3 @@
-Here’s the translated and formatted content in Markdown:
-
----
-
 ## Using the Dataset
 
 [USA Computing Olympiad](https://usaco.org/index.php?page=open24results)
