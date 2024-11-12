@@ -17,6 +17,9 @@ This model supports file handling.
 
 Before generating code, place the problem screenshot file `problem.png` and the test case file `testCase.zip` in the same folder, as shown below.
 
+<img width="201" alt="Screenshot 2024-11-12 at 13 26 38" src="https://github.com/user-attachments/assets/3d5802bf-5efa-42c2-900b-eb272553e1bb">
+
+
 ### Potential Issues and Solutions
 
 1. **Unable to Read File**  
